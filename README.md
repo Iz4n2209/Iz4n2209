@@ -1,6 +1,13 @@
-<h1 align="center">Bienvenido a mi Github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Bienvenido%20a%20mi%20Github&fontSize=40&type=waving&fontColor=fefefe&animation=fadeIn" alt="Bienvenido a mi Github" />
+</div>
 
-<p align="center"> <a href="https://github.com/Iz4n2209"> <img src="https://img.shields.io/github/followers/Iz4n2209?label=Seguir&style=social" alt="Seguidores en GitHub" /> </a> </p> <p align="center">
+<p align="center">
+  <a href="https://github.com/Iz4n2209">
+    <img src="https://img.shields.io/github/followers/Iz4n2209?label=Seguir&style=social" alt="Seguidores en GitHub" />
+  </a>
+</p>
 
 <p align="center">Soy Izan, estudiante de Ingeniería Informática en la ETSIIT de la UGR</p>
 
