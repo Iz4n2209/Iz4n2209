@@ -1,6 +1,6 @@
 <!-- HEADER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Bienvenido%20a%20mi%20Github&fontSize=40&type=waving&fontColor=fefefe&animation=fadeIn" alt="Bienvenido a mi Github" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/banner.svg" alt="Bienvenido a mi Github" width="100%" />
 </div>
 
 <p align="center">
