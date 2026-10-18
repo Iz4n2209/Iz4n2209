@@ -9,24 +9,51 @@
 
 <p align="center">¡Hola! Me llamo Izan. Gracias por pasarte por mi perfil de GitHub 😄</p>
 
-## Tecnologías conocidas
+## Tecnologías Familiarizadas
+
+### Lenguajes
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="45" alt="Ruby" />
-  <img src="https://skillicons.dev/icons?i=godot" height="45" alt="Godot" />
-  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cpp" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="45" alt="ruby" />
+  <img src="https://skillicons.dev/icons?i=r" height="45" alt="r" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Ensamblador-6c7086?style=for-the-badge" alt="Ensamblador" />
+  <img src="https://img.shields.io/badge/CLIPS-9ece6a?style=for-the-badge" alt="CLIPS" />
 </p>
 
-## Conecta conmigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px">
+### Herramientas y entornos
 
 <p align="left">
-  <a href="https://github.com/Iz4n2209"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash" />
+  <img src="https://img.shields.io/badge/Maxima-bb9af7?style=for-the-badge" alt="Maxima" />
+  <img src="https://img.shields.io/badge/LogicWorks-e0af68?style=for-the-badge" alt="LogicWorks" />
+</p>
+
+### Motores de videojuegos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=godot" height="45" alt="godot" />
+  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity" />
+</p>
+
+### Dibujo, modelado y animación
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Paint_Tool_SAI_2-f7768e?style=for-the-badge" alt="Paint Tool SAI 2" />
+  <img src="https://img.shields.io/badge/Blockbench-1abc9c?style=for-the-badge" alt="Blockbench" />
+  <img src="https://img.shields.io/badge/Live2D-7dcfff?style=for-the-badge" alt="Live2D" />
 </p>
 
 ## Estadísticas de GitHub
