@@ -9,7 +9,7 @@
 
 <p align="center">Soy Izan, estudiante de Ingeniería Informática en la ETSIIT de la UGR</p>
 
-## Tecnologías Familiarizadas
+## Tecnologías con las que estoy familiarizado
 
 ### Lenguajes
 
@@ -49,8 +49,3 @@
   <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/blockbench.png" height="45" alt="Blockbench" />
   <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/live2d.png" height="45" alt="Live2D" />
 </p>
-
-
----
-
-<p align="center">Créditos: <a href="https://github.com/Iz4n2209">Izan</a></p>
