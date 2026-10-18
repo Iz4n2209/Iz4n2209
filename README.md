@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, compañeros desarrolladores! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Bienvenido a mi Github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iz4n2209&label=Visitas&color=7aa2f7&style=flat" alt="Visitas al perfil" />
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center">¡Hola! Me llamo Izan. Gracias por pasarte por mi perfil de GitHub 😄</p>
+<p align="center">Soy Izan, estudiante de Ingeniería Informática en la ETSIIT de la UGR</p>
 
 ## Tecnologías Familiarizadas
 
@@ -34,10 +34,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
   <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/gitbash.png" height="45" alt="Git Bash" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Maxima-bb9af7?style=for-the-badge" alt="Maxima" />
-  <img src="https://img.shields.io/badge/LogicWorks-e0af68?style=for-the-badge" alt="LogicWorks" />
-</p>
 
 ### Motores de videojuegos
 
@@ -54,16 +50,6 @@
   <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/live2d.png" height="45" alt="Live2D" />
 </p>
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Iz4n2209&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iz4n2209&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Iz4n2209&theme=tokyonight" alt="Racha de contribuciones" />
-</p>
 
 ---
 
