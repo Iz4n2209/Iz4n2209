@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/banner.svg" alt="Bienvenido a mi Github" width="100%" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/banner.svg?v=2" alt="Bienvenido a mi Github" width="100%" />
 </div>
 
 <p align="center">
