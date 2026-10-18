@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p align="center">Soy Izan, estudiante de Ingeniería Informática en la ETSIIT de la UGR</p>
+<p align="center">Estudiante de Ingeniería Informática en la ETSIIT de la UGR</p>
 
 ## Tecnologías con las que estoy familiarizado
 
