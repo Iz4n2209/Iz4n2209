@@ -21,11 +21,9 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin" />
   <img src="https://skillicons.dev/icons?i=ruby" height="45" alt="ruby" />
   <img src="https://skillicons.dev/icons?i=r" height="45" alt="r" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Ensamblador-6c7086?style=for-the-badge" alt="Ensamblador" />
-  <img src="https://img.shields.io/badge/CLIPS-9ece6a?style=for-the-badge" alt="CLIPS" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/sql.png" height="45" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/assembly.png" height="45" alt="Ensamblador" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/clips.png" height="45" alt="CLIPS" />
 </p>
 
 ### Herramientas y entornos
@@ -34,9 +32,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/gitbash.png" height="45" alt="Git Bash" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash" />
   <img src="https://img.shields.io/badge/Maxima-bb9af7?style=for-the-badge" alt="Maxima" />
   <img src="https://img.shields.io/badge/LogicWorks-e0af68?style=for-the-badge" alt="LogicWorks" />
 </p>
@@ -51,9 +49,9 @@
 ### Dibujo, modelado y animación
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Paint_Tool_SAI_2-f7768e?style=for-the-badge" alt="Paint Tool SAI 2" />
-  <img src="https://img.shields.io/badge/Blockbench-1abc9c?style=for-the-badge" alt="Blockbench" />
-  <img src="https://img.shields.io/badge/Live2D-7dcfff?style=for-the-badge" alt="Live2D" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/sai2.png" height="45" alt="Paint Tool SAI 2" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/blockbench.png" height="45" alt="Blockbench" />
+  <img src="https://raw.githubusercontent.com/Iz4n2209/Iz4n2209/main/img/live2d.png" height="45" alt="Live2D" />
 </p>
 
 ## Estadísticas de GitHub
